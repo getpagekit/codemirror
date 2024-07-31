@@ -1,4 +1,7 @@
-/* CodeMirror - Minified & Bundled
+/* 
+ * CodeMirror是一个旧项目，用于GetPagekit 开发的过度
+ * 
+   CodeMirror - Minified & Bundled
    Generated on 26.8.2015 with http://codemirror.net/doc/compress.html
    Version: 5.6
 
